@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.header_fullwidth{
+    background: rgb(161, 160, 160);
+}
+.header_container{
+    display: flex;
+    align-items: center;
+    max-width: 1200px;
+    margin: 0 auto;
+    justify-content: space-between;
+}
+.logo{
+    color: beige;
+}
+.header nav{
+    display: flex;
+    gap: 2.8rem;
+}
+.header nav:hover{
+    color: aqua;
+}
+.active{
+    color: red;
+    
+}
+.header nav a{
+    text-decoration: none;
+    color: #fff;
+}
+.header .active{
+    color: green;
+}

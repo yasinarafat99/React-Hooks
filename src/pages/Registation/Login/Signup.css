@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.sign_fb{
+    color: #0866FF;
+    font-size: 40px;
+
+}
+.heading{
+    text-align: center;
+    /* color: black; */
+    
+}
